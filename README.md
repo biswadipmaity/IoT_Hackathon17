@@ -3,6 +3,7 @@ You will need Visual Studio IDE along with Platform IO Core(which is a multiplat
 
 
 ********   Installation instructions *********
+
 0. Visit https://code.visualstudio.com/ and download VS Code, if you don't have it.
 1. Open VSCode Package Manager
 2. Search for official platformio-ide package
