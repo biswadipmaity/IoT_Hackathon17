@@ -1,7 +1,7 @@
 {
     "version": "0.1.0",
     "runner": "terminal",
-    "command": "C:\\Users\\${env:USERNAME}\\.platformio\\penv\\Scripts\\platformio.exe",
+    "command": "C:\\Users\\'${env:USERNAME}'\\.platformio\\penv\\Scripts\\platformio.exe",
     "isShellCommand": false,
     "args": ["-c", "vscode"],
     "showOutput": "always",
