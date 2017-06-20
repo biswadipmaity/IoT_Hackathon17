@@ -24,10 +24,9 @@ void setup()
     Serial.begin(9600);
 
     oled_setup();
+    printMacAddress();
 }
 
 void loop()
 {
-    printMacAddress();
-    delay(5000);
 }
