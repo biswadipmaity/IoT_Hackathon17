@@ -1,4 +1,4 @@
-#include <ESP8266WiFi.h>
+#include <ESP8266wifi.h>
 #include <SPI.h>
 #include <Wire.h>
 #include <oled.h>
