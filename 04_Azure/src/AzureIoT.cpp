@@ -16,7 +16,7 @@ const char *password = "Mypwd123";
 int pinDHT11 = 2;
 SimpleDHT11 dht11;
 // Azure Setting
-const String DeviceId = "dummydevice";
+const String DeviceId = "hackSession";
 const String AzureEventHubURI = "https://pawansiothub.azure-devices.net/devices/" + DeviceId + "/messages/events?api-version=2016-02-03";
 const String AzureEventHubFingerPrint = "9C:AC:A9:4C:32:F9:53:0A:85:CA:AA:4D:CE:A2:D9:A2:83:9A:B8:AB";
 const String AzureEventHubAuth = "SharedAccessSignature sr=pawansiothub.azure-devices.net&sig=w8jFnm3xg2IY%2b%2bEmn%2bzxxyggNUPKYyv1NmS%2fL0lrK4I%3d&se=1529610143&skn=iothubowner";
